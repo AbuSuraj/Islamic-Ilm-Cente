@@ -1,0 +1,45 @@
+[
+    {
+      "id": "01",
+      "name": "Learn Tazweed",
+      "image":"https://i.ibb.co/d4qhdXr/pexels-abdulmeilk-aldawsari-36704.jpg",
+      "duration": 5,
+      "fee": 20
+    },
+    {
+      "id": "02",
+      "name": "calligraphy",
+      "image":"https://i.ibb.co/PGDMrPB/caliography.png",
+      "duration": 4,
+      "fee": 50
+    },
+    {
+      "id": "03",
+      "name": "Fikhul Hazz",
+      "image":"https://i.ibb.co/pZ27g8R/Hazz.jpg",
+      "duration": 5,
+      "fee": 20
+    },
+    {
+      "id": "04",
+      "name": "Dua's in the salat",
+      "image":"https://i.ibb.co/t30fsBM/Dua.jpg",
+      "duration": 4,
+      "fee": 10
+    },
+    {
+      "id": "05",
+      "name": "Significane of zakat",
+      "image":"https://i.ibb.co/vjPZ8Qg/zakat.png",
+      "duration": 5,
+      "fee": 50
+    },
+    {
+      "id": "06",
+      "name": "Fikhul Ramadan",
+      "image":"https://i.ibb.co/7ph2Cz1/ramdan.jpg",
+      "duration": 8,
+      "fee": 70
+    }
+    
+  ]

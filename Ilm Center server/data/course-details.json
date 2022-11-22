@@ -1,0 +1,58 @@
+[
+    {
+        "id": "01",
+        "name": "Learn Tazweed",
+        "image":"https://i.ibb.co/d4qhdXr/pexels-abdulmeilk-aldawsari-36704.jpg",
+        "duration": 5,
+        "fee": 20,
+        "instructor":"Sayekh Ziaur Rahman",
+        "details": "There are a number of steps to understand the holy book of Allah, the Quran, and to have a sufficient understanding of Islam. The first step is to be able to recite the Quran. We provide online Quran tutoring service as well as other Islamic topics for the new generation with live tutoring. Advantages: Well educated and professional teachers, Comprehensive, Economical, Easy access at home, Your own timing"
+
+      },
+      {
+        "id": "02",
+        "name": "calligraphy",
+        "image":"https://i.ibb.co/PGDMrPB/caliography.png",
+        "duration": 4,
+        "fee": 50,
+        "instructor": "Mustofa Kamal Emon",
+        "details": "We love being able to share our passion for calligraphy through comprehensive online courses that include individualized feedback and community! Creative Calligraphy Course is a comprehensive step-by-step online program for beginners, to kickstart their modern calligraphy journey.Signature Styles is an intermediate calligraphy course for developing your own calligraphy style.The Invitation Design Bootcamp is our masterclass design program for creating wedding invitations from start to finish. This is perfect for calligraphers /letterers who want to become invitation designers. The Islamic Calligraphy is our all-in-one   masterclass course, created by a calligrapher for calligraphers. It covers the foundations of starting a calligraphy from concept to launch."
+      },
+      {
+        "id": "03",
+        "name": "Fikhul Hazz",
+        "image":"https://i.ibb.co/pZ27g8R/Hazz.jpg",
+        "duration": 5,
+        "fee": 20,
+        "instructor": "Abudullah Ibn Jafor",
+        "details": "One of the unique features of the Labbaik MV training simulator is LIVE online Hajj and Umrah training in the 3D simulated environment of the holy sites of Hajj. You can appoint a religious guide to sign in to the Labbaik MV interface and invite a group of pilgrims/trainees to log in as well and follow him. Both the trainer and trainees will be transmitted as avatars on the PC/Laptop/Mobile screen, allowing them to easily communicate with each other in the Metaverse environment.From there on, the guide will lead the pilgrims online through all the holy locations of Makkah and train them how to perform Hajj and Umrah in the Labbaik MV virtual environment. The guide will also be able to communicate with pilgrims online, via audio, to explain specifics of Hajj rites and rituals, pertinent to a particular location, for e.g. Sa’i, Muzdhalifah, Arafaat, Jamaraat, Mina, Masjid ul Haram or the Holy Ka’bah."
+      },
+      {
+        "id": "04",
+        "name": "Dua's in the salat",
+        "image":"https://i.ibb.co/t30fsBM/Dua.jpg",
+        "duration": 4,
+        "fee": 10,
+        "instructor": "Baria Binthe Atahar",
+        "details": "“Duʿāʾ”, “Duaa”, or “Dua” refer to Islamic supplication and remembrance of Allah (SWT). Generally, there are 2 types of Duaa; the Dua for asking, and the Dua for worshiping & thanking. Du’a (Supplication) is one of the most special voluntary acts & forms of worshiping Allah Almighty. Muslims recite Duas at different times, situations, and activities during the day & night to gain the forgiveness and satisfaction of Allah (SWT).Islamic Supplication (Dua) course at Quran Ayat Institute will help you or your children to learn daily dua (supplication) through one-to-one live classes with highly-qualified Islamic scholars. This online course aims to teach all important and daily duas (supplications) that a Muslim should know and often recite, in addition to teaching the correct way of making dua (supplication). What makes the Dua course by Quran Ayat unique is that it’s totally customizable as per student’s age, goals, and knowledge. Both kids & adults, males & females, can take this course to learn Islamic supplication (Du’a) online with a professional tutor (male/female) safely in the comfort of their own home. Moreover, during online Dua classes, you or your kids will learn the importance of Duaa, the meaning of Dua’s verses, how to supplicate, etiquette of Dua’a, and special Duaas to be recited in Islamic occasions such as on Eid or for fasting. Although our special Islamic Supplication (Dua) online course suits any age or gender. Yet, if you or your kids don’t know how to read Arabic, we highly recommend that you obtain the Learn Arabic Course before starting to learn Dua."
+      },
+      {
+        "id": "05",
+        "name": "Significane of zakat",
+        "image":"https://i.ibb.co/vjPZ8Qg/zakat.png",
+        "duration": 5,
+        "fee": 50,
+        "instructor":"Dr. Anayet Ullah Abbasi",
+        "details": "Zakat  means ‘to cleanse’ or ‘purify’. Carrying out this mandatory act establishes a spiritual connection with Allah. It is calculated at 2.5% of surplus wealth, such as savings and financial assets not used towards living expenses for an entire Islamic lunar year. Throught the course student will learn about the rules, significance, and benefits of Zakat. This course will take prominent islamic scholar Dr. Anayet Ullah Abbasi"
+      },
+    {
+        "id": "06",
+        "name": "Fikhul Ramadan",
+        "image":"https://i.ibb.co/7ph2Cz1/ramdan.jpg",
+        "duration": 8,
+        "fee": 70,
+        "instructor": "Sayekh Ahmedullah",
+        "details":"Ramadan is a period of fasting and spiritual growth, and is one of the five “pillars of Islam.” The others being the declaration of faith, daily prayer, alms-giving, and the pilgrimage to Mecca. Able-bodied Muslims are expected to abstain from eating, drinking and sexual relations from dawn to sunset each day of the month. Many practicing Muslims also perform additional prayers, especially at night, and attempt to recite the entire Qur’an. The prevailing belief among Muslims is that it was in the final 10 nights of Ramadan that the Qur’an was first revealed to the Prophet Muhammad. In this course pupils will learn about the way that helps to utilize rmadan fruitfully.Also learn things to do and to avoid in ramdan. Reasons that destroy Ramadan. Types of ramadan and so on"
+      },
+      {}
+]
